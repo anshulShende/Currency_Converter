@@ -8,3 +8,5 @@
 3. The Project includes all the jar and required Files
 
 ---------------------------------------------------------
+
+The Project Stack :- Java , Spring 5 , Bootstrap , HTML, CSS , JSP, JSON .
